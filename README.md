@@ -3,6 +3,8 @@
 
 # Sobre o projeto
 
+https://play.google.com/store/apps/details?id=com.GalikGamer.Frutinhos&hl=pt_BR&gl=US
+
 Top Down é um jogo desenvolvido na engine unity durante o 2ª semestre do curso de **Desenvolvimento de jogos digitais**, organizado pela [Etec de cubatão](https://www.etecubatao.com.br "Site da etec").
 
 Um jogo de memória expirado no antigo jogo chamado genius, o jogador terá que acerta a sequencia aleatória dado pela maquina para ganhar pontos e vencer.
