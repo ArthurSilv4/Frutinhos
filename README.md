@@ -9,13 +9,10 @@ Top Down é um jogo desenvolvido na engine unity durante o 2ª semestre do curso
 
 Um jogo de memória expirado no antigo jogo chamado genius, o jogador terá que acerta a sequencia aleatória dado pela maquina para ganhar pontos e vencer.
 
-## Layout tela de inicio
-![Inicial 1](https://github.com/ArthurSilv4/Top-Down/blob/main/Imgs/Tela%20inicial.png) ![Inicial 2](https://github.com/ArthurSilv4/Top-Down/blob/main/Imgs/Configs.png)
+## Layout do jogo
+![Inicial 1](https://github.com/ArthurSilv4/Frutinhos/blob/main/imgs/Foto1.png) ![Inicial 2](https://github.com/ArthurSilv4/Top-Down/blob/main/Imgs/Configs.png)
 
-## Layout jogo
-![Jogo 1](https://github.com/ArthurSilv4/Top-Down/blob/main/Imgs/jogo.png)
 
-![Jogo 2](https://github.com/ArthurSilv4/Top-Down/blob/main/Imgs/jogo2.png)
 
 # Tecnologias utilizadas
 - C#
